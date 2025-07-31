@@ -2,3 +2,5 @@ X:/Softwares/Games/Rain filter=lfs diff=lfs merge=lfs -text
 World filter=lfs diff=lfs merge=lfs -text
 [FitGirl filter=lfs diff=lfs merge=lfs -text
 Repack]/Setup/* filter=lfs diff=lfs merge=lfs -text
+X:/Softwares/Games/Rain filter=lfs diff=lfs merge=lfs -text
+Repack]/Setup/* filter=lfs diff=lfs merge=lfs -text
